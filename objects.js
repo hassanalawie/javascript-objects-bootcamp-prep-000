@@ -1,4 +1,9 @@
 var playlist = {
   drake:"Over",
-  eminem:"Rap God"
+  beatles:"Yesterday"
+}
+function updatePlaylist(obj,key,value)
+{
+  playlist.mj="Thriller"
+  return playlist
 }
