@@ -9,4 +9,7 @@ function updatePlaylist(obj,key,value)
   return obj
 }
 
-function 
+function removeFromPlaylist(key,value)
+{
+  
+}
